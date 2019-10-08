@@ -6,6 +6,13 @@ A demo project which uses python and NASA data to find the nearest meteorite lan
 The project needs python3 and its requests package to execute.
 
 'python3 find_meteors.py'
-wq!
-wq
+
+First, install pipenv. Then: 
+
+```````
+pipenv install
+pipenv run "python find_meteors.py"
+
+```````
+
 
